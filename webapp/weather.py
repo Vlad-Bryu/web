@@ -25,6 +25,7 @@ def weather_in_city(city_name):
         return False
     return False
 
+
 if __name__ == '__main__':
     print(weather_in_city("Moscow,Russia"))
 

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fffb296-c618-4365-984b-437994410feb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/create_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/vladbryu.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/get_all_news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/.idea/libraries/R_User_Library.xml" afterDir="false" />
@@ -13,24 +15,106 @@
       <change afterPath="$PROJECT_DIR$/webapp/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/.idea/webapp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/model.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/python.org.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/python_news.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Home_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Home_work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/.idea/after_1_lesson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/.idea/after_1_lesson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../after_1_lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/bot_planet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/bot_planet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/bot_planet_2way.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/bot_planet_2way.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/ephem_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/ephem_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/exception1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/exception1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/exception2task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/exception2task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/for1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/for1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/for2task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/for2task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/iftask1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/iftask1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/iftask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/iftask2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/schoolmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/schoolmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/schoolmarks2way.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/schoolmarks2way.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../after_1_lesson/while1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../after_1_lesson/while1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/learn3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/learn3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/bot_planet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/bot_planet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/csv1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/csv1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/datetime1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/datetime1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/PySocks-1.7.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/PySocks-1.7.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/asn1crypto-0.24.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/asn1crypto-0.24.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/certifi-2019.3.9.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/certifi-2019.3.9.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cffi-1.12.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cffi-1.12.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cffi-1.12.3.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cffi-1.12.3.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cryptography-2.6.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cryptography-2.6.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cryptography-2.6.1.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/cryptography-2.6.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/ephem-3.7.6.0-py3.6.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/ephem-3.7.6.0-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/ephem-3.7.6.0-py3.6.egg-info/installed-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/ephem-3.7.6.0-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/future-0.17.1-py3.6.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/future-0.17.1-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/future-0.17.1-py3.6.egg-info/installed-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/future-0.17.1-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser-2.19-py3.6.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser-2.19-py3.6.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser-2.19-py3.6.egg-info/installed-files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser-2.19-py3.6.egg-info/installed-files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser/c_ast.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/pycparser/c_ast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/python_telegram_bot-11.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/python_telegram_bot-11.1.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/setuptools-40.6.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/setuptools-40.6.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/six-1.12.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Lib/site-packages/six-1.12.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/futurize-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/futurize-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/Scripts/pasteurize-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/Scripts/pasteurize-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/env/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/export_users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/export_users.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/files1task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/files1task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learn3/referat2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../learn3/referat2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_all_news.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_all_news.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_news.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/weather.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/python_news.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/python_news.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/weather.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,74 +124,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapp/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/templates/login.html">
+        <entry file="file://$PROJECT_DIR$/webapp/user/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="25" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="25" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -116,10 +137,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/python_news.py">
+        <entry file="file://$PROJECT_DIR$/webapp/user/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tasks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/news/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/news/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/news/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/news/parsers/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -128,24 +196,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/create_db.py">
+        <entry file="file://$PROJECT_DIR$/get_all_news.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/weather.py">
+        <entry file="file://$PROJECT_DIR$/webapp/news/parsers/habr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="779">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -168,23 +244,48 @@
         <option value="$PROJECT_DIR$/webapp/create_db.py" />
         <option value="$PROJECT_DIR$/create_db.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/get_all_news.py" />
-        <option value="$PROJECT_DIR$/webapp/weather.py" />
-        <option value="$PROJECT_DIR$/webapp/python_news.py" />
-        <option value="$PROJECT_DIR$/webapp/forms.py" />
-        <option value="$PROJECT_DIR$/create_admin.py" />
-        <option value="$PROJECT_DIR$/webapp/templates/login.html" />
         <option value="$PROJECT_DIR$/webapp/templates/index.html" />
-        <option value="$PROJECT_DIR$/webapp/config.py" />
-        <option value="$PROJECT_DIR$/webapp/model.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.git/config" />
+        <option value="$PROJECT_DIR$/../.git/config" />
+        <option value="$PROJECT_DIR$/webapp/forms.py" />
+        <option value="$PROJECT_DIR$/webapp/templates/login.html" />
+        <option value="$PROJECT_DIR$/webapp/news/view.py" />
+        <option value="$PROJECT_DIR$/webapp/news/models.py" />
+        <option value="$PROJECT_DIR$/webapp/python_news.py" />
+        <option value="$PROJECT_DIR$/webapp/templates/user/login.html" />
+        <option value="$PROJECT_DIR$/webapp/user/decorators.py" />
+        <option value="$PROJECT_DIR$/webapp/templates/admin/index.html" />
+        <option value="$PROJECT_DIR$/run.bat" />
         <option value="$PROJECT_DIR$/webapp/__init__.py" />
+        <option value="$PROJECT_DIR$/webapp/templates/menu.html" />
+        <option value="$PROJECT_DIR$/webapp/user/views.py" />
+        <option value="$PROJECT_DIR$/webapp/admin/views.py" />
+        <option value="$PROJECT_DIR$/webapp/templates/user/registration.html" />
+        <option value="$PROJECT_DIR$/webapp/news/parsers/utils.py" />
+        <option value="$PROJECT_DIR$/webapp/weather.py" />
+        <option value="$PROJECT_DIR$/buffer.py" />
+        <option value="$PROJECT_DIR$/webapp/static/style.css" />
+        <option value="$PROJECT_DIR$/webapp/templates/news/single_news.html" />
+        <option value="$PROJECT_DIR$/webapp/templates/base.html" />
+        <option value="$PROJECT_DIR$/webapp/templates/news/index.html" />
+        <option value="$PROJECT_DIR$/webapp/news/views.py" />
+        <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/get_all_news.py" />
+        <option value="$PROJECT_DIR$/webapp/config.py" />
+        <option value="$PROJECT_DIR$/webapp/user/forms.py" />
+        <option value="$PROJECT_DIR$/create_admin.py" />
+        <option value="$PROJECT_DIR$/webapp/model.py" />
+        <option value="$PROJECT_DIR$/webapp/user/models.py" />
+        <option value="$PROJECT_DIR$/webapp/news/parsers/habr.py" />
+        <option value="$PROJECT_DIR$/tasks.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,6 +293,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,26 +303,43 @@
             </path>
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="parsers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webapp/templates" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\projects\Home_work\web\webapp\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\Home_work\web\webapp\templates\user" />
+      <recent name="C:\projects\Home_work\web\webapp\templates\news" />
       <recent name="C:\projects\Home_work\web\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\Home_work\web\webapp\templates\news" />
+      <recent name="C:\projects\Home_work\web\webapp\templates\user" />
+      <recent name="C:\projects\Home_work\web\webapp\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,10 +368,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="988" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16739607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25431034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,9 +382,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26586434" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2910361" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32945284" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -277,34 +396,89 @@
     <entry file="file://$PROJECT_DIR$/env/server.py" />
     <entry file="file://$PROJECT_DIR$/webapp/server.py" />
     <entry file="file://$PROJECT_DIR$/webapp/create_db.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/flask_sqlalchemy/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.git/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/versions/443810c2e580_users_and_news_tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#107#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/templates/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/env/Lib/site-packages/flask_sqlalchemy/__init__.py">
+    <entry file="file://$PROJECT_DIR$/webapp/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="834" selection-start-line="834" selection-end-line="834" />
+        <state relative-caret-position="368">
+          <caret line="23" column="79" lean-forward="true" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_all_news.py">
+    <entry file="file://$PROJECT_DIR$/webapp/templates/user/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="240">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/templates/user/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/user/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/admin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/python.org.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="480">
           <caret line="473" column="20" selection-start-line="473" selection-start-column="20" selection-end-line="473" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
@@ -312,47 +486,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/create_admin.py">
+    <entry file="file://$PROJECT_DIR$/buffer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/forms.py">
+    <entry file="file://$PROJECT_DIR$/webapp/templates/news/single_news.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/templates/news/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/python_news.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/create_db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/weather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="361">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -361,41 +526,206 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state>
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="228">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/webapp/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="29" selection-start-line="17" selection-start-column="20" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/user/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/versions/31c0f840acff_added_email_string_to_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/user/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="684">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/__init__.py">
+    <entry file="file://$PROJECT_DIR$/webapp/news/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/news/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/news/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_all_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="23" />
           <folding>
-            <element signature="e#0#66#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/news/parsers/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/news/parsers/habr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -403,6 +733,17 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
